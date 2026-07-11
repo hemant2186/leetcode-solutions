@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hemant2186/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hemant2186/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0460-lfu-cache](https://github.com/hemant2186/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant2186/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hemant2186/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0460-lfu-cache](https://github.com/hemant2186/leetcode-solutions/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -179,9 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/hemant2186/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/hemant2186/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/hemant2186/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/hemant2186/leetcode-solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
