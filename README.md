@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hemant2186/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/hemant2186/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/hemant2186/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemant2186/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hemant2186/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hemant2186/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/hemant2186/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/hemant2186/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant2186/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hemant2186/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/hemant2186/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String Matching
 |  |
 | ------- |
