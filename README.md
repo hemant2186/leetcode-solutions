@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/hemant2186/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String Matching
 |  |
 | ------- |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hemant2186/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/hemant2186/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
