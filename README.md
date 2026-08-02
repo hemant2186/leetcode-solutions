@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hemant2186/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/hemant2186/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/hemant2186/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/hemant2186/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/hemant2186/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hemant2186/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hemant2186/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hemant2186/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/hemant2186/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/hemant2186/leetcode-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hemant2186/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hemant2186/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/hemant2186/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/hemant2186/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/hemant2186/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -386,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/hemant2186/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/hemant2186/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
