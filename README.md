@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemant2186/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/hemant2186/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemant2186/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemant2186/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hemant2186/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/hemant2186/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/hemant2186/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hemant2186/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String Matching
