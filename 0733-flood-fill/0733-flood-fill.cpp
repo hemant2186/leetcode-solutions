@@ -2,23 +2,28 @@ class Solution {
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int startColor = image[sr][sc];
-        if (startColor == color) return image; 
+        if (startColor == color) return image;
         
-        dfs(image, sr, sc, startColor, color);
-        return image;
-    }
-    
-private:
-    void dfs(vector<vector<int>>& image, int r, int c, int startColor, int newColor) {
         int m = image.size(), n = image[0].size();
+        queue<pair<int,int>> q;
+        q.push({sr, sc});
+        image[sr][sc] = color;
         
-        if (r < 0 || r >= m || c < 0 || c >= n || image[r][c] != startColor) return;
+        int dirs[4][2] = {{1,0}, {-1,0}, {0,1}, {0,-1}};
         
-        image[r][c] = newColor;
+        while (!q.empty()) {
+            auto [r, c] = q.front();
+            q.pop();
+            
+            for (auto& d : dirs) {
+                int nr = r + d[0], nc = c + d[1];
+                if (nr >= 0 && nr < m && nc >= 0 && nc < n && image[nr][nc] == startColor) {
+                    image[nr][nc] = color;
+                    q.push({nr, nc});
+                }
+            }
+        }
         
-        dfs(image, r + 1, c, startColor, newColor);
-        dfs(image, r - 1, c, startColor, newColor);
-        dfs(image, r, c + 1, startColor, newColor);
-        dfs(image, r, c - 1, startColor, newColor);
+        return image;
     }
 };
