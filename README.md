@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hemant2186/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/hemant2186/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemant2186/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hemant2186/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/hemant2186/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemant2186/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/hemant2186/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/hemant2186/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
