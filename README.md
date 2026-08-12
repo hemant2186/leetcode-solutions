@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hemant2186/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemant2186/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hemant2186/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/hemant2186/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/hemant2186/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemant2186/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hemant2186/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/hemant2186/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/hemant2186/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemant2186/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hemant2186/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/hemant2186/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/hemant2186/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/hemant2186/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hemant2186/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -568,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hemant2186/leetcode-solutions/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/hemant2186/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
