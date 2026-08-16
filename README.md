@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/hemant2186/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hemant2186/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/hemant2186/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hemant2186/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hemant2186/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/hemant2186/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hemant2186/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hemant2186/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/hemant2186/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hemant2186/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/hemant2186/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/hemant2186/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/hemant2186/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/hemant2186/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3310-remove-methods-from-project](https://github.com/hemant2186/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
