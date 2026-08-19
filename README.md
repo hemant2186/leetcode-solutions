@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/hemant2186/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hemant2186/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/hemant2186/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/hemant2186/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hemant2186/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/hemant2186/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/hemant2186/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemant2186/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hemant2186/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hemant2186/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
