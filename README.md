@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hemant2186/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hemant2186/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/hemant2186/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/hemant2186/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/hemant2186/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/hemant2186/leetcode-solutions/tree/master/0877-stone-game) |
@@ -661,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hemant2186/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/hemant2186/leetcode-solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
