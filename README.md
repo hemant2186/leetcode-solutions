@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/hemant2186/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant2186/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/hemant2186/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/hemant2186/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/hemant2186/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/hemant2186/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/hemant2186/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hemant2186/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/hemant2186/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/hemant2186/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/hemant2186/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/hemant2186/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hemant2186/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/hemant2186/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemant2186/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/hemant2186/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/hemant2186/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemant2186/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/hemant2186/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/hemant2186/leetcode-solutions/tree/master/1927-sum-game) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hemant2186/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemant2186/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/hemant2186/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/hemant2186/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hemant2186/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hemant2186/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hemant2186/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemant2186/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hemant2186/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/hemant2186/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/hemant2186/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hemant2186/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/hemant2186/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -654,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/hemant2186/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hemant2186/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hemant2186/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/hemant2186/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/hemant2186/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hemant2186/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/hemant2186/leetcode-solutions/tree/master/1020-number-of-enclaves) |
