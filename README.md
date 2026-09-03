@@ -744,4 +744,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/hemant2186/leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/hemant2186/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
