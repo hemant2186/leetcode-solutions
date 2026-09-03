@@ -750,4 +750,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/hemant2186/leetcode-solutions/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/hemant2186/leetcode-solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
