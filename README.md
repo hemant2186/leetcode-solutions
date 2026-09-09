@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hemant2186/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/hemant2186/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hemant2186/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hemant2186/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hemant2186/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hemant2186/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hemant2186/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/hemant2186/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hemant2186/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/hemant2186/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/hemant2186/leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -783,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hemant2186/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
