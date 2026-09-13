@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hemant2186/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/hemant2186/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/hemant2186/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/hemant2186/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/hemant2186/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/hemant2186/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/hemant2186/leetcode-solutions/tree/master/0877-stone-game) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hemant2186/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/hemant2186/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/hemant2186/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/hemant2186/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/hemant2186/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/hemant2186/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hemant2186/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
