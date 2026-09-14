@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hemant2186/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/hemant2186/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/hemant2186/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hemant2186/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/hemant2186/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hemant2186/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/hemant2186/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/hemant2186/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/hemant2186/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemant2186/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/hemant2186/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant2186/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -290,12 +293,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hemant2186/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hemant2186/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/hemant2186/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hemant2186/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemant2186/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hemant2186/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/hemant2186/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -459,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hemant2186/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/hemant2186/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/hemant2186/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hemant2186/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hemant2186/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/hemant2186/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -831,4 +837,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/hemant2186/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
