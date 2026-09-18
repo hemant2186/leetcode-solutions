@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/hemant2186/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hemant2186/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/hemant2186/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/hemant2186/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemant2186/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2498-frog-jump-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/2498-frog-jump-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/hemant2186/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemant2186/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hemant2186/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hemant2186/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/hemant2186/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/hemant2186/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/hemant2186/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemant2186/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemant2186/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hemant2186/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hemant2186/leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/hemant2186/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/hemant2186/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hemant2186/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hemant2186/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hemant2186/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/hemant2186/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/hemant2186/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hemant2186/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -860,4 +866,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
