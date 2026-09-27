@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/hemant2186/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/hemant2186/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hemant2186/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/hemant2186/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/hemant2186/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/hemant2186/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/hemant2186/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/hemant2186/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hemant2186/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/hemant2186/leetcode-solutions/tree/master/0076-minimum-window-substring) |
