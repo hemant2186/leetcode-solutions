@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hemant2186/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/hemant2186/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/hemant2186/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/hemant2186/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/hemant2186/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/hemant2186/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/hemant2186/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hemant2186/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hemant2186/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -977,4 +980,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/hemant2186/leetcode-solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
