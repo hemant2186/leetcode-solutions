@@ -2,7 +2,6 @@ class Solution {
 public:
     bool checkValidString(string s) {
         int low = 0, high = 0;
-
         for (char c : s) {
             if (c == '(') {
                 low++;
@@ -22,7 +21,6 @@ public:
 
             low = max(low, 0);
         }
-
         return low == 0;
     }
 };
