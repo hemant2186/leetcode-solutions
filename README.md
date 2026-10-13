@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/hemant2186/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/hemant2186/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hemant2186/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/hemant2186/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/hemant2186/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/hemant2186/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0541-reverse-string-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hemant2186/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/hemant2186/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/hemant2186/leetcode-solutions/tree/master/0856-score-of-parentheses) |
