@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/hemant2186/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/hemant2186/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/hemant2186/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hemant2186/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/hemant2186/leetcode-solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/hemant2186/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hemant2186/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/hemant2186/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/hemant2186/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
