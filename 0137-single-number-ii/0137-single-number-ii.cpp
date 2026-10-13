@@ -1,11 +1,13 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ones = 0, twos = 0;
+        unordered_map<int, int> freq;
+        for (int num : nums) freq[num]++;
         for (int num : nums) {
-            ones = (ones ^ num) & ~twos;
-            twos = (twos ^ num) & ~ones;
+            if (freq[num] == 1) {
+                return num;
+            }
         }
-        return ones;
+        return -1;
     }
 };
