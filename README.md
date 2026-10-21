@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hemant2186/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hemant2186/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2484-count-palindromic-subsequences](https://github.com/hemant2186/leetcode-solutions/tree/master/2484-count-palindromic-subsequences) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hemant2186/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/hemant2186/leetcode-solutions/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hemant2186/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2484-count-palindromic-subsequences](https://github.com/hemant2186/leetcode-solutions/tree/master/2484-count-palindromic-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hemant2186/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hemant2186/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
