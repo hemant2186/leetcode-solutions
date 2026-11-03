@@ -1,23 +1,21 @@
 class Solution {
 public:
-    int change(int value, vector<int>& a) {
-        int n = a.size();
-        vector<vector<long>> dp(n, vector<long>(value + 1, -1));
-        return f(n - 1, value, a, dp);
+int solve(vector<int> &coins, vector<vector<int>> &dp, int amount, int i){
+    int n = coins.size();
+    if (amount == 0) return 1;
+    if (amount < 0) return 0;
+    if (i == n) return 0;
+    if (dp[i][amount] != -1) return dp[i][amount];
+    int exc = solve(coins, dp, amount, i+1);
+    int inc = 0;
+    if (coins[i] <= amount){
+        inc = solve(coins, dp, amount - coins[i], i);
     }
-
-    long f(int ind, int T, vector<int>& a, vector<vector<long>>& dp) {
-        if (ind == 0) {
-            return (T % a[0] == 0);
-        }
-        if (dp[ind][T] != -1)
-            return dp[ind][T];
-
-        long notTake = f(ind - 1, T, a, dp);
-        long take = 0;
-        if (a[ind] <= T)
-            take = f(ind, T - a[ind], a, dp);
-
-        return dp[ind][T] = take + notTake;
+    return dp[i][amount] = inc + exc;
+}
+    int change(int amount, vector<int>& coins) {
+        int n = coins.size();
+        vector<vector<int>> dp(n+1, vector<int> (amount+1 , -1));
+        return solve(coins, dp, amount, 0);
     }
 };
