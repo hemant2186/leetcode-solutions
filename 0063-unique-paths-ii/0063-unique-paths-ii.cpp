@@ -1,38 +1,18 @@
 class Solution {
-private:
-    int func(int m, int n, vector<vector<int>>& matrix) {
-        vector<int> prev(n, 0), curr(n, 0);
-        
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 1) {
-                    curr[j] = 0;
-                    continue;
-                }
-                if (i == 0 && j == 0) {
-                    curr[j] = 1;
-                    continue;
-                }
-
-                int up = 0;
-                int left = 0;
-                if (i > 0)
-                    up = prev[j];
-                if (j > 0)
-                    left = curr[j - 1];
-                curr[j] = up + left;
-            }
-            
-            prev = curr;
-        }
-        return prev[n-1];
-    }
-
 public:
-    int uniquePathsWithObstacles(vector<vector<int>>& matrix) {
-        int m = matrix.size();   
-        int n = matrix[0].size(); 
-
-        return func(m, n, matrix);
+    int solve(vector<vector<int>>& a, vector<vector<int>>& dp, int i, int j) {
+        if (i < 0 || j < 0) return 0;
+        if (a[i][j] == 1) return 0;
+        if (i == 0 && j == 0) return 1;
+        if (dp[i][j] != -1) return dp[i][j];
+        int up = solve(a, dp, i-1, j);
+        int left = solve(a, dp, i, j-1);
+        return dp[i][j] = up + left;
+    }
+    int uniquePathsWithObstacles(vector<vector<int>>& a) {
+        int m = a.size();
+        int n = a[0].size();
+        vector<vector<int>> dp(m, vector<int>(n, -1));
+        return solve(a, dp, m-1, n-1);
     }
 };
