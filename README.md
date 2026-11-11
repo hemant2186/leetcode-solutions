@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/hemant2186/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0943-find-the-shortest-superstring](https://github.com/hemant2186/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hemant2186/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/hemant2186/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hemant2186/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hemant2186/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/hemant2186/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0943-find-the-shortest-superstring](https://github.com/hemant2186/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [1386-cinema-seat-allocation](https://github.com/hemant2186/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/hemant2186/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [0943-find-the-shortest-superstring](https://github.com/hemant2186/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [1043-partition-array-for-maximum-sum](https://github.com/hemant2186/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/hemant2186/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/hemant2186/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemant2186/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [0943-find-the-shortest-superstring](https://github.com/hemant2186/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [1021-remove-outermost-parentheses](https://github.com/hemant2186/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/hemant2186/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hemant2186/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1104,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0943-find-the-shortest-superstring](https://github.com/hemant2186/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bracket Sequences
 |  |
@@ -1151,4 +1156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hemant2186/leetcode-solutions/tree/master/0139-word-break) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/hemant2186/leetcode-solutions/tree/master/0943-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
