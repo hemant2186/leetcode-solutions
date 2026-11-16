@@ -1,18 +1,26 @@
 class Solution {
 public:
     string digitSum(string s, int k) {
-        while (s.size() > k) {
-            string temp = "";
-            while (s.size() > 0) {
-                string group = s.substr(0, k);
-                s.erase(0, k);
-                int sum = 0;
-                for (int i = 0; i < group.size(); i++) {
-                    sum += group[i] - '0';
+        int sum = 0;
+        int count = 0;
+        string ans = "";
+        while(s.size() > k){
+            for(int i = 0; i < s.size(); i++){
+                if(count == k){
+                    count = 0;
+                    ans = ans + to_string(sum);
+                    sum = 0;
                 }
-                temp += to_string(sum);
+                sum = sum + (s[i] - '0');
+                count++;
+                if(i + 1 == s.size()){
+                    ans = ans + to_string(sum);
+                    count = 0;
+                    sum = 0;
+                }
             }
-            s = temp;
+            s = ans;
+            ans = "";
         }
         return s;
     }
