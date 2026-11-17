@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hemant2186/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hemant2186/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hemant2186/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hemant2186/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/hemant2186/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hemant2186/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hemant2186/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2484-count-palindromic-subsequences](https://github.com/hemant2186/leetcode-solutions/tree/master/2484-count-palindromic-subsequences) |
 | [2707-extra-characters-in-a-string](https://github.com/hemant2186/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hemant2186/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/hemant2186/leetcode-solutions/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hemant2186/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2484-count-palindromic-subsequences](https://github.com/hemant2186/leetcode-solutions/tree/master/2484-count-palindromic-subsequences) |
 | [2707-extra-characters-in-a-string](https://github.com/hemant2186/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hemant2186/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hemant2186/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hemant2186/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hemant2186/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemant2186/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
